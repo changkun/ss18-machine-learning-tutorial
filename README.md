@@ -1,8 +1,13 @@
-# LMU Summer Semester 2018 "Machine Learning" Tutorial Materials
+# LMU "Machine Learning" Tutorial Materials
 
+>  Summer Semester 2018 
+>
 > [Course Homepage](http://www.dbs.ifi.lmu.de/cms/studium_lehre/lehre_master/ml18/index.html)
+>
 > Lecturer: Prof. Dr. Volker Tresp
+>
 > Assistant: Julian Busch, Christian Frey
+>
 > Tutor: Changkun Ou
 
 ## Tutorial Sessions
