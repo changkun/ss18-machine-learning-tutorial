@@ -2,9 +2,9 @@
 
 ## Exercise 1-1
 
-- a) $\vec{1}^{T}$
-- b) $2\vec{x}^{T}$
-- c) $2(\vec{x}-\vec{\mu})^{T}$
+- a) $\boldsymbol{1}$
+- b) $2\boldsymbol{x}$
+- c) $2(\boldsymbol{x}-\boldsymbol{\mu})$
 
 ## Exercise 1-2
 
