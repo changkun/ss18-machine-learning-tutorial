@@ -56,3 +56,7 @@
 - 2018.07.10 **Week 13: Bayesian networks**
   - [manuscript]
   - [Assignment Solution]
+
+## License
+
+MIT & CC-BY 4.0 Copyright &copy; 2018 [Ou Changkun](https://changkun.de)
