@@ -46,7 +46,8 @@
   - [Assignment Solution](./week09/assignment_solution.md)
 - 2018.06.19 **Week 10: Dimensionality reduction of PCA**
   - [manuscript]
-  - [Assignment Solution]
+  - [Assignment Solution](./week10/assignment_solution.md)
+  - [Illustration of MLE and PCA](./week10/exercise-7.ipynb)
 - 2018.06.26 **Week 11: SVM**
   - [manuscript]
   - [Assignment Solution]
