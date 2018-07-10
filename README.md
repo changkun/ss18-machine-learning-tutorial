@@ -48,9 +48,9 @@
   - [Manuscript](./week11/week11.pdf)
   - [Illustration of SVM](./week11/exercise-8.ipynb)
 - 2018.07.03 **Week 12: Model Selection**
-  - [Manuscript]
+  - [Manuscript](./week12/week12.pdf)
 - 2018.07.10 **Week 13: Bayesian Networks**
-  - [Manuscript]
+  - [Manuscript](./week13/week13.pdf)
 
 ## License
 
